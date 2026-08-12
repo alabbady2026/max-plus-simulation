@@ -67,4 +67,4 @@ docker build -t teg-simulator .
 ```bash
 docker run --rm -v $(pwd):/app teg-simulator
 
-```# max-plus-simulation
+```
